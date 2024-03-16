@@ -9,4 +9,4 @@ The architecture of the project consists of the following components:
 * Azure Storage Data Lake Gen2: Serves as the data lake for storing raw and processed data. It provides features such as hierarchical namespace, file-level security, and scalability.
 * Azure Databricks: Used for data processing, transformation, and analysis. It provides a collaborative and interactive environment for running Spark-based jobs.
 * Azure Synapse Analytics: A unified analytics service that allows for data integration, big data analytics, and data warehousing. It provides a collaborative environment for data engineers, data scientists, and analysts to work together.
-![Architecture](https://github.com/shovit504/AzureOlympicsPipline/blob/main/Images/DataWorkFlow.png/1270x512)
+![Architecture](https://github.com/shovit504/AzureOlympicsPipline/blob/main/Images/DataWorkFlow.png)
