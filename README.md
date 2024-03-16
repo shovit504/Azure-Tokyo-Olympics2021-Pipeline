@@ -25,14 +25,15 @@ The architecture of the project consists of the following components:
 
 ## Loading Data ANd Performing Analysis
 The cleaned and transformed data is loaded into Azure Synapse Analytics for further analysis. 
-The following charts are generated to provide insights into the Olympic data:
+ ![SynaplseLoading](https://github.com/shovit504/AzureOlympicsPipline/blob/main/Images/synapse%20tables.png)
 
+The following charts are generated to provide insights into the Olympic data:
 * Total number of athletes from each country
  ![SQLChart1](https://github.com/shovit504/AzureOlympicsPipline/blob/main/Images/SQLQuery1.jpeg)
 * Distribution of medals (gold, silver, bronze) by country
-  ![SQLChart2](https://github.com/shovit504/AzureOlympicsPipline/blob/main/Images/SQLQuery2.png)
+  ![SQLChart2](https://github.com/shovit504/AzureOlympicsPipline/blob/main/Images/SQLQuery2.jpeg)
 * Total number of medals won over time
-  ![SQLChart3](https://github.com/shovit504/AzureOlympicsPipline/blob/main/Images/SQLQuery3.png)
+  ![SQLChart3](https://github.com/shovit504/AzureOlympicsPipline/blob/main/Images/SQLQuery3.jpeg)
 
 ## Conclusion
 * The Azure Tokyo Olympic 2021 Pipeline project successfully demonstrated the end-to-end implementation of a data analysis pipeline on the Azure cloud platform.
